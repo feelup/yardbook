@@ -8,12 +8,12 @@ class HoleReviewsController < ApplicationController
     @review = Review.find(params[:review_id])
     @hole_review = @review.hole_reviews.new
     @courses = Course.where(:club_name => @review.course_name)
-    @hole_number = params[:hole_number]
   end
 
   def edit
     @review = Review.find(params[:review_id])
     @hole_review = @review.hole_reviews.find(params[:id])
+    @courses = Course.where(:club_name => @review.course_name)
   end
 
   def create

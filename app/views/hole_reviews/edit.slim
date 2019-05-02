@@ -1,27 +1,29 @@
 div class = 'container'
-  h1 홀 리뷰 수정
+  h3 #{@review.course_name} - #{@hole_review.hole_number}번홀 공략 수정
   = form_with(model: [ @review, @hole_review ], local: true) do |f|
     - if @hole_review.errors.any?
       div id='error_explanation'
         ul
           - @hole_review.errors.full_messages.each do |msg|
             li = msg
-    div class = 'row'
-      = f.text_field :course_name, class: 'form-control', placeholder: '코스이름', :required => true
-    div class = 'row'
+    div class = 'form-group'
+      = f.collection_select :course_name, @courses || [], :course_name, :course_name, {:selected => :course_name}, {:class => 'form-control'}
+    div class = 'form-group'
       = f.text_field :hole_number, class: 'form-control', placeholder: '홀 번호', :required => true
-    div class = 'row'
+    div class = 'form-group'
       = f.text_area :hole_review, class: 'form-control', placeholder: '홀 공략', :required => true
-    div
-       - @hole_review.images.each_with_index do |image, index| #grab the index
-        div class = 'row'
-          = image_tag(image.url)
-          = link_to "Delete", review_hole_review_image_path(@review, @hole_review, index), :method => :delete, data: { confirm: "Are you sure you want to delete this image?" }
-    div class = 'row'
-      = f.submit '확인', class: 'btn btn-outline-primary'
-  h3 Add more images
+    = f.submit '정보 수정', class: 'btn btn-outline-primary'
+    hr
+  h3 이미지 삭제/추가
+  - @hole_review.images.each_with_index do |image, index| #grab the index
+    = image_tag(image.url, class: 'hole-image')
+    = link_to "위 이미지 삭제", review_hole_review_image_path(@review, @hole_review, index), :method => :delete, data: { confirm: "이미지를 지우시겠습니다?" }, :class => 'btn btn-outline-danger'
+    hr
   = form_for @hole_review, url: review_hole_review_images_path(@review, @hole_review), method: :post do |f|
     div class = 'row'
-      = f.file_field :images, multiple: true
-    div class = 'row'
-    = f.submit "Add More Images"
+      = f.file_field :images, multiple: true, class: 'upload-box'
+    div class='row link-box'
+      div class = 'col'
+        div = link_to '취소', review_hole_review_path(@review, @hole_review), class: 'btn btn-outline-secondary'
+      div class = 'col modify-link-box'
+        = f.submit '이미지 추가', class: 'btn btn-outline-primary'
