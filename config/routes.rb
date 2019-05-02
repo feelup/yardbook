@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+  get 'reviews/index'
   resources :reviews do
     get :autocomplete_course_club_name, :on => :collection
   	resources :hole_reviews do
@@ -8,4 +8,5 @@ Rails.application.routes.draw do
   	end
   end
   resources :courses
+  root 'reviews#index'
 end
