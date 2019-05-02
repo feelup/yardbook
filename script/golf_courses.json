@@ -1,0 +1,4780 @@
+[
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "가평 베네스트 GC",
+        "courses": [
+            "Pine(9H)",
+            "Maple(9H)",
+            "Birch(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "강남 300 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "경찰대 체력단련장 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "고양 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "곤지암 CC",
+        "courses": [
+            "Mountain(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "골프존카운티 안성H",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "골프존카운티 안성W",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "골프클럽Q 안성",
+        "courses": [
+            "Pampas(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "광릉포레스트 CC 퍼블릭",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "광릉 포레스트 CC",
+        "courses": [
+            "Glen(9H)",
+            "Pine(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "그린힐 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "글렌로스 퍼블릭 GC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "금강 CC",
+        "courses": [
+            "West(9H)",
+            "South(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "기흥 골드 CC",
+        "courses": [
+            "Champion(18H)",
+            "Master(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "기흥 CC",
+        "courses": [
+            "North(9H)",
+            "West(9H)",
+            "East(9H)",
+            "South(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "김포 씨사이드 CC",
+        "courses": [
+            "서(9H)",
+            "남(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "남부 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "남서울 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "남서울 CC Par 3",
+        "courses": [
+            "Course(10H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "남성대 CC",
+        "courses": [
+            "퍼블릭(9H)",
+            "Lion(9H)",
+            "Tiger(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "남수원 CC",
+        "courses": [
+            "한라(9H)",
+            "백두(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "남양주 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "남여주 GC",
+        "courses": [
+            "마루(9H)",
+            "누리(9H)",
+            "가람(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "남촌 CC",
+        "courses": [
+            "East(9H)",
+            "West(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "노스팜 CC",
+        "courses": [
+            "동(9H)",
+            "서(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "노스폴 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "뉴서울 CC",
+        "courses": [
+            "북(18H)",
+            "남(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "뉴스프링빌 CC",
+        "courses": [
+            "Rocky(9H)",
+            "Alps(9H)",
+            "Olympus(9H)",
+            "Montblanc(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "뉴스프링빌 CC 퍼블릭",
+        "courses": [
+            "와이트혼(9H)",
+            "빅토리아",
+            "파크(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "뉴코리아 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "더반 CC",
+        "courses": [
+            "Right(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "더스타휴 CC",
+        "courses": [
+            "Star(9H)",
+            "Hue(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "덕산대 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "데니스 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "동두천 캠프 케이시 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "동여주 체력단련장",
+        "courses": [
+            "Mountain(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "드림파크 CC",
+        "courses": [
+            "드림(18H)",
+            "파크(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "라비돌 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "레이크사이드 CC",
+        "courses": [
+            "서(18H)",
+            "동(18H)",
+            "남(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "레이크우드 CC",
+        "courses": [
+            "꽃길(9H)",
+            "물길(9H)",
+            "숲길(9H)",
+            "산길(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "레이크힐스 퍼블릭 CC 안성",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "레이크힐스 CC 용인",
+        "courses": [
+            "Sapphire(9H)",
+            "Ruby(9H)",
+            "Diamond(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "렉스필드 CC",
+        "courses": [
+            "Lake(9H)",
+            "Mountain(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "루이힐스 CC",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "리베라 CC",
+        "courses": [
+            "Valley(9H)",
+            "Lakes(9H)",
+            "Pine",
+            "Hill(9H)",
+            "Cherry",
+            "Hill(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "리앤리 CC",
+        "courses": [
+            "Lake(9H)",
+            "Highland(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "링크나인 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "마에스트로 CC",
+        "courses": [
+            "Lake(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "마이다스밸리 GC",
+        "courses": [
+            "Valley(9H)",
+            "Midas(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "몽베르 CC",
+        "courses": [
+            "Ete(9H)",
+            "Printemps(9H)",
+            "Hiver(9H)",
+            "Automne(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "발리오스 (구)발안) CC",
+        "courses": [
+            "동(9H)",
+            "서(9H)",
+            "남(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "베뉴지 CC",
+        "courses": [
+            "힐(9H)",
+            "지(9H)",
+            "휴(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "베어스타운 리조트",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "베어즈베스트 청라",
+        "courses": [
+            "Australasia(9H)",
+            "Europe(9H)",
+            "USA(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "베어크리크 GC 포천",
+        "courses": [
+            "Bear(18H)",
+            "Creek(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "블랙스톤 GC 이천",
+        "courses": [
+            "East(9H)",
+            "North(9H)",
+            "West(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "블루버드 CC",
+        "courses": [
+            "파인힐(9H)",
+            "오크힐(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "블루원 CC 용인 (구)태영)",
+        "courses": [
+            "West(9H)",
+            "Middle(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "블루헤런 GC",
+        "courses": [
+            "West(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "비에이비스타 CC",
+        "courses": [
+            "Bella(9H)",
+            "Vista(9H)",
+            "Lago(9H)",
+            "Monti(9H)",
+            "Buona(9H)",
+            "Hopark(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "비전힐스 CC",
+        "courses": [
+            "East(9H)",
+            "West(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "빅토리아 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "사우스 스프링스 CC",
+        "courses": [
+            "Lake(9H)",
+            "Mountain(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "사자체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "서서울 CC",
+        "courses": [
+            "Lake(9H)",
+            "Hill(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "서원밸리 GC",
+        "courses": [
+            "Seowon(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "서원힐스 CC",
+        "courses": [
+            "East(9H)",
+            "West(9H)",
+            "South(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "서창 퍼블릭",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "서평택 GC 대원",
+        "courses": [
+            "A(9H)",
+            "B(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "선봉대",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "성남 공군체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "성남 GC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "세라지오 CC",
+        "courses": [
+            "Cera(9H)",
+            "Gio(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "소디프 금강산랜드",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "소피아그린 CC",
+        "courses": [
+            "Mountain(9H)",
+            "Lake(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "솔모로 CC",
+        "courses": [
+            "Cherry(9H)",
+            "Persimmon(9H)",
+            "Pine(9H)",
+            "Maple(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "솔트베이 GC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "송도 스포츠 파크 골프",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "송도 GC",
+        "courses": [
+            "송도(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "송추 CC",
+        "courses": [
+            "West(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "수원 공군 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "수원 CC",
+        "courses": [
+            "New(18H)",
+            "Old(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "스마트 KU 골프 파빌리온",
+        "courses": [
+            "바른(9H)",
+            "미쁨(9H)",
+            "혼솔(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "스카이밸리 CC",
+        "courses": [
+            "Sky(9H)",
+            "Valley(9H)",
+            "Lake(9H)",
+            "Mountain(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "스카이72 GC",
+        "courses": [
+            "하늘(18H)",
+            "레이크(18H)",
+            "클래식(18H)",
+            "오션(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "스카이72_드림듄스",
+        "courses": [
+            "Dream",
+            "Dunes(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "스프링힐스 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "신라 CC",
+        "courses": [
+            "West(9H)",
+            "South(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "신안 CC",
+        "courses": [
+            "토마토(9H)",
+            "애플(9H)",
+            "오렌지(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "신원 CC",
+        "courses": [
+            "Ebenezer(9H)",
+            "David(9H)",
+            "Solomon(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "써닝포인트 CC",
+        "courses": [
+            "Sun(9H)",
+            "Point(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "썬힐 GC",
+        "courses": [
+            "Hill(9H)",
+            "Pine(9H)",
+            "Sun(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "아난티 클럽 서울",
+        "courses": [
+            "잣나무(9H)",
+            "느티나무(9H)",
+            "자작나무(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "아도니스 CC",
+        "courses": [
+            "West(9H)",
+            "Middle(9H)",
+            "East(9H)",
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "아리지 CC",
+        "courses": [
+            "햇님(9H)",
+            "달님(9H)",
+            "별님(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "아세코 밸리 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "아시아나 CC",
+        "courses": [
+            "East(18H)",
+            "West(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "아일랜드 리조트",
+        "courses": [
+            "East(9H)",
+            "South(9H)",
+            "West(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "안성 베네스트 CC",
+        "courses": [
+            "North(9H)",
+            "West(9H)",
+            "South(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "안성 아덴힐 CC",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "안성 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "안양 베네스트 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "양주 CC",
+        "courses": [
+            "West(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "양지 파인 리조트 GC",
+        "courses": [
+            "West(9H)",
+            "South(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "양평 TPC GC",
+        "courses": [
+            "Lunar(9H)",
+            "Solar(9H)",
+            "Stella(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "에덴블루 CC",
+        "courses": [
+            "Mountain(9H)",
+            "Valley(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "여주 썬밸리 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "여주 CC",
+        "courses": [
+            "Ace(9H)",
+            "Challenge(9H)",
+            "Dream(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "오렌지듄스",
+        "courses": [
+            "East(9H)",
+            "West(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "오산 미공군 골프장",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "오산 체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "올림픽 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "용인 CC",
+        "courses": [
+            "용인(9H)",
+            "석천(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "웰링턴 CC",
+        "courses": [
+            "Griffin(9H)",
+            "Phoenix(9H)",
+            "Wyvern(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "윈체스트 GC",
+        "courses": [
+            "Romantic(9H)",
+            "Classic(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "유니 아일랜드 골프 리조트\t\t\t\t\t\t\tNEW",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "은화삼 CC",
+        "courses": [
+            "West(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "이스트밸리 CC",
+        "courses": [
+            "East(9H)",
+            "West(9H)",
+            "South(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "이천 마이다스 골프 앤 리조트",
+        "courses": [
+            "Olympus(9H)",
+            "Titan(9H)",
+            "Midas(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "이천 비승대 육군체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "이천 실크밸리 GC",
+        "courses": [
+            "Silk(9H)",
+            "Lake(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "이포 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "인천 국제 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "인천 그랜드 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "인천 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "일동레이크 락가든 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "일동 레이크 GC",
+        "courses": [
+            "Mountain(9H)",
+            "Hill(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "자유로 CC",
+        "courses": [
+            "동(9H)",
+            "서(9H)",
+            "북(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "자유 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "잭 니클라우스 GC 코리아",
+        "courses": [
+            "Urban(9H)",
+            "Links(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "제이 퍼블릭 파주",
+        "courses": [
+            "퍼블릭(6H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "제일 CC",
+        "courses": [
+            "Center(9H)",
+            "East(9H)",
+            "South(9H)",
+            "Par-3(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "중부 CC",
+        "courses": [
+            "West(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "지산 CC",
+        "courses": [
+            "East(9H)",
+            "West(9H)",
+            "South(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "지산 CC 퍼블릭",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "참밸리 CC",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "처인 체력단련장",
+        "courses": [
+            "Loyal(9H)",
+            "Victory(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "캐슬렉스 GC 서울",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "캐슬파인 GC",
+        "courses": [
+            "Valley(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "캠프 레드 클라우드 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "코리아 CC",
+        "courses": [
+            "Lake(9H)",
+            "Challenge(9H)",
+            "Creek(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "코리아 CC 퍼블릭",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "크리스탈밸리 CC",
+        "courses": [
+            "Crystal(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "타이거 CC",
+        "courses": [
+            "Gaon(9H)",
+            "Nury(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "태광 CC",
+        "courses": [
+            "South(9H)",
+            "East(9H)",
+            "West(9H)",
+            "North(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "태릉 CC",
+        "courses": [
+            "화랑(9H)",
+            "을지(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "트리니티 클럽",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "티클라우드 CC",
+        "courses": [
+            "해밀(9H)",
+            "비체(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "파인크리크 CC",
+        "courses": [
+            "Pine(9H)",
+            "Creek(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "파주 CC",
+        "courses": [
+            "East(9H)",
+            "West(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "페럼클럽",
+        "courses": [
+            "동(9H)",
+            "서(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "평택 만포대 해군체력단련장",
+        "courses": [
+            "태평양(9H)",
+            "대서양(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "포레스트 힐 CC",
+        "courses": [
+            "Rock(9H)",
+            "Hill(9H)",
+            "Forest(6H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "포천 힐스 CC",
+        "courses": [
+            "Garden(9H)",
+            "Palace(9H)",
+            "Castle(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "푸른솔 GC 포천",
+        "courses": [
+            "Mountain(9H)",
+            "Valley(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "프라자 CC",
+        "courses": [
+            "Tiger(18H)",
+            "Lion(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "프리스틴밸리 가평",
+        "courses": [
+            "Pristine(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "필로스 GC",
+        "courses": [
+            "East(9H)",
+            "West(9H)",
+            "South(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "한성 CC",
+        "courses": [
+            "Green(9H)",
+            "Blue(9H)",
+            "Orange(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "한양 파인 CC 퍼블릭",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "한양 CC",
+        "courses": [
+            "New(18H)",
+            "Old(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "한원 CC",
+        "courses": [
+            "고구려(9H)",
+            "백제(9H)",
+            "신라(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "해비치 CC 남양주",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "해솔리아 CC",
+        "courses": [
+            "해(9H)",
+            "솔(9H)",
+            "리아(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "헤슬리 나인브릿지 CC 여주\t\t\t\t\t\t\tNEW",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "화산 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "화성 상록 GC",
+        "courses": [
+            "South(9H)",
+            "East(9H)",
+            "West(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "화성 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "1.2.3 GC",
+        "courses": [
+            "Course(6H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "360도 CC 여주",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "88 CC",
+        "courses": [
+            "호국보훈(18H)",
+            "나라사랑(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "NCC GC",
+        "courses": [
+            "퍼블릭(10H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경기도",
+        "name": "SG 덕평 CC",
+        "courses": [
+            "Mountain(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "강릉 공군체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "골든비치 GR",
+        "courses": [
+            "Pine(9H)",
+            "Salmon(9H)",
+            "Sea",
+            "View(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "남춘천 CC",
+        "courses": [
+            "Victory(9H)",
+            "Challenge(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "더플레이어스 CC",
+        "courses": [
+            "Lake(9H)",
+            "Mountain(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "델피노 GR",
+        "courses": [
+            "Mountain(9H)",
+            "Ocean(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "동강 시스타 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "동서울 레스피아 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "동원 썬밸리 CC",
+        "courses": [
+            "Sun(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "동해 해군 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "라데나 GC",
+        "courses": [
+            "Lake(9H)",
+            "Garden(9H)",
+            "Nature(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "라비에벨 CC (듄스)",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "라비에벨 CC (올드)",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "로드힐스 GR",
+        "courses": [
+            "Lake(9H)",
+            "Hills(9H)",
+            "Lord(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "맹방 씨스포빌 리조트 골프장",
+        "courses": [
+            "Course(6H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "메이플비치",
+        "courses": [
+            "Maple(9H)",
+            "Beach(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "버치힐 GC",
+        "courses": [
+            "Birch(9H)",
+            "Hill(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "벨라스톤 CC",
+        "courses": [
+            "Stone(9H)",
+            "Bella(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "블랙밸리 CC",
+        "courses": [
+            "Black(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "블루마운틴 CC",
+        "courses": [
+            "A(9H)",
+            "B(9H)",
+            "C(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "비발디파크 퍼블릭",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "비발디파크 CC",
+        "courses": [
+            "Vivaldi(9H)",
+            "Park(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "비콘힐스 GC",
+        "courses": [
+            "누리(9H)",
+            "하늘(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "샌드파인 GC\t\t\t\t\t\t\tNEW",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "샤인데일 골프앤리조트",
+        "courses": [
+            "Shine(9H)",
+            "Lake(9H)",
+            "Dale(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "설악프라자 CC",
+        "courses": [
+            "Sun",
+            "Rise(9H)",
+            "Mountain",
+            "View(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "센추리21 CC",
+        "courses": [
+            "Mountain(9H)",
+            "Field(9H)",
+            "Valley(9H)",
+            "Pine(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "소노펠리체",
+        "courses": [
+            "Healing(9H)",
+            "Eco(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "스프링베일 리조트 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "썬밸리 리조트 설악",
+        "courses": [
+            "Sorak(9H)",
+            "Sun(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "알펜시아 트룬 GC",
+        "courses": [
+            "포레스트(9H)",
+            "레이크(9H)",
+            "메도우(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "알펜시아 700 GC",
+        "courses": [
+            "알프스(9H)",
+            "아시아(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "알프스 대영 CC",
+        "courses": [
+            "Blue(9H)",
+            "Cosmos(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "에콜리안 정선 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "엘리시안 CC 강촌",
+        "courses": [
+            "Valley(9H)",
+            "Lake(9H)",
+            "Hill(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "엘리시안 CC 강촌 퍼블릭",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "영랑호 리조트 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "오너스 GC",
+        "courses": [
+            "Hill(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "오크밸리 CC",
+        "courses": [
+            "Oak(9H)",
+            "Maple(9H)",
+            "Cherry(9H)",
+            "Pine(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "오크크릭 퍼블릭",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "오크힐스 CC",
+        "courses": [
+            "Bridge(9H)",
+            "Hill(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "오투 GR",
+        "courses": [
+            "함백Sky(9H)",
+            "태백Sky(9H)",
+            "백두Sky(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "옥스필드 CC",
+        "courses": [
+            "Ox(9H)",
+            "Field(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "용평 나인 GC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "용평 CC",
+        "courses": [
+            "강나루(9H)",
+            "산마루(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "원주 공군체력단련장 (구)",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "원주 공군체력단련장 (신)",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "웰리힐리 CC (구)횡성오스타)",
+        "courses": [
+            "South(18H)",
+            "North(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "웰리힐리CC 퍼블릭",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "인터불고 CC 원주",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "제이드팰리스 GC",
+        "courses": [
+            "East(9H)",
+            "West(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "클럽모우",
+        "courses": [
+            "Mountain(9H)",
+            "Oasis(9H)",
+            "Wild(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "클럽버디",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "파가니카 CC",
+        "courses": [
+            "Hill(9H)",
+            "Forest(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "파인리즈 리조트",
+        "courses": [
+            "Pine(9H)",
+            "Ridge(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "파인밸리 CC",
+        "courses": [
+            "Pine(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "파크밸리 GC",
+        "courses": [
+            "Park(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "하이원 CC",
+        "courses": [
+            "Mountain(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "한탄강 CC",
+        "courses": [
+            "Valley(9H)",
+            "Mountain(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "휘닉스파크 CC",
+        "courses": [
+            "Mountain(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "휘닉스파크 GC 퍼블릭",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "휘슬링락",
+        "courses": [
+            "Cocoon(9H)",
+            "Temple(9H)",
+            "Cloud(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "강원도",
+        "name": "힐드로사이 CC",
+        "courses": [
+            "Birch(9H)",
+            "Pine(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "계룡대 육군체력단련장",
+        "courses": [
+            "백호(9H)",
+            "청룡(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "골드나인 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "골드리버 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "골든베이 GR",
+        "courses": [
+            "밸리(9H)",
+            "마운틴(9H)",
+            "오션(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "공군사관학교",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "구룡 체력단련장",
+        "courses": [
+            "숫용추(9H)",
+            "암용추(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "그랜드 CC",
+        "courses": [
+            "West(9H)",
+            "South(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "금실 대덕밸리 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "남성대 체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "대덕연구단지 퍼블릭 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "대영베이스 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "대영힐스 CC",
+        "courses": [
+            "력(9H)",
+            "청(9H)",
+            "미(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "대천 S&골프리조트",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "대호오스타 CC 단양",
+        "courses": [
+            "Mountain(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "더 힐 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "도고 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "동촌 GC",
+        "courses": [
+            "West(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "떼제베 CC",
+        "courses": [
+            "Moses(9H)",
+            "Joshua(9H)",
+            "Caleb(9H)",
+            "Solomon(10H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "레인보우힐스 CC",
+        "courses": [
+            "West(9H)",
+            "South(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "로얄포레 CC",
+        "courses": [
+            "로얄(9H)",
+            "포레(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "롯데 스카이힐 부여 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "마론뉴데이 CC",
+        "courses": [
+            "Dream(9H)",
+            "Vision(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "백제 CC",
+        "courses": [
+            "사비(9H)",
+            "웅진(9H)",
+            "한성(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "버드우드 GC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "상떼힐 CC 충주",
+        "courses": [
+            "Sante(9H)",
+            "Hill(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "서산 수 골프앤리조트",
+        "courses": [
+            "Shine(9H)",
+            "Ocean(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "서산 해미 공군체력단련장",
+        "courses": [
+            "하늘(9H)",
+            "우주(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "석문체육공원",
+        "courses": [
+            "Course(3H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "세일 CC",
+        "courses": [
+            "산길(9H)",
+            "들길(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "세종에머슨CC(구)IMG)",
+        "courses": [
+            "Mountain(9H)",
+            "Valley(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "세종필드 GC",
+        "courses": [
+            "세종(9H)",
+            "행복(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "센테리움 CC 충주",
+        "courses": [
+            "웨일즈(9H)",
+            "잉글랜드(9H)",
+            "스코틀랜드(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "시그너스 CC",
+        "courses": [
+            "Silk(9H)",
+            "Ramie(9H)",
+            "Cotton(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "실크리버 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "썬밸리 CC",
+        "courses": [
+            "Sun(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "아름다운 골프 리조트",
+        "courses": [
+            "Hill(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "아리솔 CC",
+        "courses": [
+            "West(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "아산 경찰교육원 체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "아트밸리 CC",
+        "courses": [
+            "Art(9H)",
+            "Mountain(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "에딘버러 CC",
+        "courses": [
+            "Valley(9H)",
+            "Mountain(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "에머슨 GC",
+        "courses": [
+            "Mountain(9H)",
+            "Lake(9H)",
+            "Sky(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "에콜리안 제천 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "오창 테크노빌 GC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "우정힐스 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "웨스토피아 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "유성 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "이븐데일 골프 & 리조트",
+        "courses": [
+            "Even(9H)",
+            "Dale(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "임페리얼레이크 CC",
+        "courses": [
+            "Pine(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "자운대 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "젠스필드 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "중원대학교",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "중원 공군체력단련장",
+        "courses": [
+            "Albatross(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "중원 GC",
+        "courses": [
+            "신라(9H)",
+            "고구려(9H)",
+            "백제(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "진양 밸리 CC",
+        "courses": [
+            "Creek(9H)",
+            "Valley(9H)",
+            "Hill(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "창공대 체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "천룡 CC",
+        "courses": [
+            "황룡(9H)",
+            "청룡(9H)",
+            "흑룡(9H)",
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "천안상록 CC",
+        "courses": [
+            "남(9H)",
+            "중(9H)",
+            "동(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "천안 골프 클럽",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "청주 공군체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "코스카 CC",
+        "courses": [
+            "행복(9H)",
+            "사랑(9H)",
+            "나눔(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "크리스탈카운티 CC",
+        "courses": [
+            "County(9H)",
+            "Crystal(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "클럽 디 보은",
+        "courses": [
+            "서(9H)",
+            "동(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "킹스데일 GC",
+        "courses": [
+            "Lake(9H)",
+            "Hill(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "태안비치 CC",
+        "courses": [
+            "River(9H)",
+            "Beach(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "파나시아 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "파인스톤 CC",
+        "courses": [
+            "Pine(9H)",
+            "Stone(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "파인허스트 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "프린세스 CC",
+        "courses": [
+            "East(9H)",
+            "West(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "하늘빛 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "현대 더 링스 CC",
+        "courses": [
+            "A(18H)",
+            "B(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "현대 솔라고 CC",
+        "courses": [
+            "Sol(18H)",
+            "Lago(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "히든밸리 GC",
+        "courses": [
+            "Hidden(9H)",
+            "Valley(9H)",
+            "Sky(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "충청도",
+        "name": "힐데스하임 CC",
+        "courses": [
+            "백조(9H)",
+            "타이거(9H)",
+            "드래곤(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "가산 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "가야 퍼블릭 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "가야 CC",
+        "courses": [
+            "신어(9H)",
+            "낙동(9H)",
+            "김해(9H)",
+            "수로(9H)",
+            "가락(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "거제뷰 CC",
+        "courses": [
+            "해넘이(9H)",
+            "해돋이(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "거제 드비치 GC",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "경주 블루원 CC 보문 (구)디아너스 CC)",
+        "courses": [
+            "Valley(9H)",
+            "Lake(9H)",
+            "Hills(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "경주 신라 CC",
+        "courses": [
+            "천마(18H)",
+            "화랑(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "경주 CC",
+        "courses": [
+            "Sun(9H)",
+            "Sea(9H)",
+            "Moon(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "고령 유니밸리 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "고성 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "골드그린 GC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "골프존카운티 청통",
+        "courses": [
+            "팔공(9H)",
+            "청통(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "구미 CC",
+        "courses": [
+            "거북(9H)",
+            "백호(9H)",
+            "청룡(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "그레이스 CC",
+        "courses": [
+            "Valley(9H)",
+            "Lake(9H)",
+            "Mountain(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "기장 동원 로얄 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "김해 상록 CC",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "꽃담 CC",
+        "courses": [
+            "서(9H)",
+            "동(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "남안동 CC",
+        "courses": [
+            "에덴(9H)",
+            "벧엘(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "냉천 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "노벨 CC",
+        "courses": [
+            "공룡(9H)",
+            "충무(9H)",
+            "가야(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "뉴스프링빌 2 GR",
+        "courses": [
+            "Monte",
+            "Rosa(9H)",
+            "Bighorn(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "다이아몬드 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "대구 CC",
+        "courses": [
+            "West(9H)",
+            "Center(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "대구 K2 공군체력단련장\t\t\t\t\t\t\tNEW",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "동래 베네스트 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "동부산 CC",
+        "courses": [
+            "Hill(9H)",
+            "Lake(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "동원로얄 CC",
+        "courses": [
+            "한려(9H)",
+            "미륵(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "레이크힐스 CC 경남",
+        "courses": [
+            "페리돗(9H)",
+            "제이드(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "롯데 스카이힐 CC 김해\t\t\t\t\t\t\tNEW",
+        "courses": [
+            "Hill(9H)",
+            "Sky(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "롯데 스카이힐 CC 성주",
+        "courses": [
+            "Hill(9H)",
+            "Sky(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "리더스 CC",
+        "courses": [
+            "Hill(9H)",
+            "Lake(9H)",
+            "Pine(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "리온 CC",
+        "courses": [
+            "길정(9H)",
+            "리온(9H)",
+            "마운틴(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "마스터피스 CC",
+        "courses": [
+            "Piece(9H)",
+            "Master(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "마우나오션 CC",
+        "courses": [
+            "Mauna(9H)",
+            "Ocean(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "무열대 체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "문경 GC",
+        "courses": [
+            "경서(9H)",
+            "문희(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "밀양 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "베네치아 골프 & 리조트",
+        "courses": [
+            "Da",
+            "Vinci(9H)",
+            "Polo(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "베이사이드 GC",
+        "courses": [
+            "Park(9H)",
+            "Lake(9H)",
+            "Forest(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "보라 CC",
+        "courses": [
+            "Edward(9H)",
+            "Henry(9H)",
+            "William(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "보문 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "부곡 CC",
+        "courses": [
+            "West(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "부산 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "블루원 GR 상주 (구)오렌지)",
+        "courses": [
+            "East(9H)",
+            "West(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "사우스케이프 오너스 클럽",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "사천 공군체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "사천 CC",
+        "courses": [
+            "Pine(9H)",
+            "Rabbit(9H)",
+            "Dragon(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "삼삼 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "서라벌 GC",
+        "courses": [
+            "Mountain(9H)",
+            "Lake(9H)",
+            "Hill(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "선리치 GC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "선산 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "세븐밸리 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "스카이뷰 CC 함양",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "스타스콥 CC",
+        "courses": [
+            "Course(13H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "스톤게이트 CC",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "시엘 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "아난티 남해 GR",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "아델스코트 CC",
+        "courses": [
+            "Mountain(9H)",
+            "Hill(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "아라미르",
+        "courses": [
+            "Ara",
+            "Out(9H)",
+            "Ara",
+            "In(9H)",
+            "Mir",
+            "Out(9H)",
+            "Mir",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "아시아드 CC",
+        "courses": [
+            "Lake(9H)",
+            "Pine(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "안강 레전드 GC",
+        "courses": [
+            "King(9H)",
+            "Queen(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "안동 휴그린 GC",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "애플밸리 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "양산 동원 로얄 CC",
+        "courses": [
+            "비스타(9H)",
+            "듀크(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "양산 에덴벨리 CC",
+        "courses": [
+            "Eden(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "양산 CC",
+        "courses": [
+            "누리(9H)",
+            "가온(9H)",
+            "마루(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "에버그린 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "에이원 CC",
+        "courses": [
+            "East(9H)",
+            "South(9H)",
+            "West(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "에콜리안 거창",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "엠스클럽 의성",
+        "courses": [
+            "Master(9H)",
+            "Challenge(9H)",
+            "Champion(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "영남 알프스 골프파크",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "영천 CC (구)레이포드)",
+        "courses": [
+            "해(9H)",
+            "별(9H)",
+            "달(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "예천 공군체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "오션비치 GR",
+        "courses": [
+            "Ocean(9H)",
+            "Valley(9H)",
+            "Beach(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "오션힐스 CC 포항",
+        "courses": [
+            "Hill(9H)",
+            "Pine(9H)",
+            "Ocean(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "오션힐스 GC 청도",
+        "courses": [
+            "Valley(9H)",
+            "Creek(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "오펠 GC 군위\t\t\t\t\t\t\tNEW",
+        "courses": [
+            "산울(9H)",
+            "여울(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "오펠 GC 영천",
+        "courses": [
+            "가람(9H)",
+            "누리(9H)",
+            "마루(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "용원 CC",
+        "courses": [
+            "Muhak(9H)",
+            "Baekgu(9H)",
+            "Baekro(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "우리 GC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "울산 CC",
+        "courses": [
+            "West(9H)",
+            "South(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "은마 김해 공군체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "의령 친환경 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "이스턴 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "이스트힐 CC",
+        "courses": [
+            "Lake(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "인터불고 CC 경산",
+        "courses": [
+            "Sky(9H)",
+            "Mountain(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "정산 CC",
+        "courses": [
+            "Sun(9H)",
+            "Moon(9H)",
+            "Star(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "제이스 CC 구미",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "제이스 CC 시사이드",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "쥬라기 리조트",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "진산 골프랜드",
+        "courses": [
+            "Course(10H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "진주 CC",
+        "courses": [
+            "남강(9H)",
+            "촉석(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "창원 CC",
+        "courses": [
+            "West(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "충성대",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "코오롱가든 CC 경주",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "타니 CC",
+        "courses": [
+            "백호",
+            "이구산(9H)",
+            "주작",
+            "각산(9H)",
+            "청룡",
+            "와룡산(9H)",
+            "현무",
+            "봉명산(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "탑블리스 CC",
+        "courses": [
+            "송가(9H)",
+            "호반(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "통도 파인이스트 CC",
+        "courses": [
+            "South(18H)",
+            "North(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "파라지오 CC",
+        "courses": [
+            "레이크(9H)",
+            "힐(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "파미힐스 CC",
+        "courses": [
+            "East(18H)",
+            "South(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "팔공 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "펜타뷰 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "포항 체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "포항 CC",
+        "courses": [
+            "동해(9H)",
+            "태백(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "하동 GR",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "하이스트 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "한맥 CC & 노블리아",
+        "courses": [
+            "한맥(9H)",
+            "노블리아(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "한산대 진해 해군체력단련장",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "함안체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "해라 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "해운대비치 골프앤리조트",
+        "courses": [
+            "Course(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "해운대 CC",
+        "courses": [
+            "Royal(9H)",
+            "Silk(9H)",
+            "Golden(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "경상도",
+        "name": "힐마루 CC",
+        "courses": [
+            "남(9H)",
+            "북(9H)",
+            "동(9H)",
+            "서(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "거명 CC",
+        "courses": [
+            "Course(6H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "고창 CC",
+        "courses": [
+            "Beach(9H)",
+            "Blue(9H)",
+            "Sky(3H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "골드레이크 CC",
+        "courses": [
+            "Gold(9H)",
+            "Lake(9H)",
+            "Valley(9H)",
+            "Hill(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "골프존카운티 선운",
+        "courses": [
+            "선운(9H)",
+            "화시(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "광주 공군체력단련장",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "광주 CC",
+        "courses": [
+            "설산(9H)",
+            "섬진(9H)",
+            "동악(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "군산 비행장 골프\t\t\t\t\t\t\tNEW",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "군산 CC (A)",
+        "courses": [
+            "Reed(9H)",
+            "Lake(9H)",
+            "전주(9H)",
+            "익산(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "군산 CC (B)",
+        "courses": [
+            "김제(9H)",
+            "정읍(9H)",
+            "부안(9H)",
+            "남원(9H)",
+            "순창(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "금과 골프장_순창",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "금호CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "나주 힐스 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "나주 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "남원 상록 GC",
+        "courses": [
+            "몽룡(9H)",
+            "춘향(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "내장산 GR\t\t\t\t\t\t\tNEW",
+        "courses": [
+            "청단풍(9H)",
+            "홍단풍(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "다산 베아체 CC\t\t\t\t\t\t\tNEW",
+        "courses": [
+            "다산(9H)",
+            "베아체(9H)",
+            "장보고(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "다이너스티 CC 함평",
+        "courses": [
+            "Majesty(9H)",
+            "Palace(9H)",
+            "Imperial(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "담양 다이너스티 CC",
+        "courses": [
+            "Imperial(9H)",
+            "Majesty(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "더 나인 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "드레곤 레이크 CC",
+        "courses": [
+            "Lake(9H)",
+            "Dragon(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "디오션 CC",
+        "courses": [
+            "West(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "레이크힐스 CC 순천",
+        "courses": [
+            "Ruby(9H)",
+            "Diamond(9H)",
+            "Emerald(9H)",
+            "Topaz(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "무등산 CC",
+        "courses": [
+            "천왕봉(9H)",
+            "지왕봉(9H)",
+            "인왕봉(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "무안 클린밸리",
+        "courses": [
+            "Clean(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "무안 CC",
+        "courses": [
+            "West-A(9H)",
+            "West-B(9H)",
+            "South-A(9H)",
+            "South-B(9H)",
+            "East-A(9H)",
+            "East-B(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "무주리조트 CC",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "무주안성 CC",
+        "courses": [
+            "레이크(9H)",
+            "마운틴(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "백양우리 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "백운 체력단련장",
+        "courses": [
+            "Course(6H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "베어리버 GR",
+        "courses": [
+            "Bear(18H)",
+            "River(18H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "보성 에덴 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "보성 CC",
+        "courses": [
+            "Mountain(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "부영 CC_나주",
+        "courses": [
+            "우정(9H)",
+            "사랑(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "부영 CC_순천",
+        "courses": [
+            "우정(9H)",
+            "사랑(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "빛고을 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "상떼힐 CC 익산",
+        "courses": [
+            "East(9H)",
+            "West(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "상떼힐 CC 익산 (퍼블릭)\t\t\t\t\t\t\tNEW",
+        "courses": [
+            "퍼블릭(6H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "상무대 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "석정 힐 CC",
+        "courses": [
+            "마운틴(9H)",
+            "레이크(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "순창 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "순천 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "승주 CC",
+        "courses": [
+            "East(9H)",
+            "South(9H)",
+            "Center(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "써미트 CC",
+        "courses": [
+            "M(9H)",
+            "S(9H)",
+            "K(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "씨티파크 GC 여수",
+        "courses": [
+            "Park(9H)",
+            "City(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "아네스빌 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "아크로 CC",
+        "courses": [
+            "챌린지(9H)",
+            "마스터(9H)",
+            "스카이(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "어등산 CC",
+        "courses": [
+            "송정(9H)",
+            "하남(9H)",
+            "어등(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "에스페란사 GC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "에콜리안 광산 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "에콜리안 영광",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "엠카운티 스파힐스",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "여수 경도 CC",
+        "courses": [
+            "오동도(9H)",
+            "돌산도(9H)",
+            "금오도(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "영광 CC",
+        "courses": [
+            "Valley(9H)",
+            "Ocean(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "옥과기안 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "운선 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "장수 GR",
+        "courses": [
+            "사과(9H)",
+            "나무(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "전주 샹그릴라 CC",
+        "courses": [
+            "Lake(9H)",
+            "Dream(9H)",
+            "Angel(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "전주 월드컵 GC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "정남진 골프리조트 JNJ",
+        "courses": [
+            "정(9H)",
+            "남(9H)",
+            "진(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "조아밸리 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "죽향 CC",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "창평 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "태인 CC",
+        "courses": [
+            "Lake(9H)",
+            "Mountain(9H)",
+            "퍼블릭(7H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "파인비치 GL 해남",
+        "courses": [
+            "Beach(9H)",
+            "Pine(9H)",
+            "Oceano(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "파인힐스 CC",
+        "courses": [
+            "Pine(9H)",
+            "Lake(9H)",
+            "Hills(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "푸른솔 GC",
+        "courses": [
+            "Lake(9H)",
+            "Mountain(9H)",
+            "Hill(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "함평나비 CC",
+        "courses": [
+            "Public(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "해양경찰교육원",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "해피니스 CC (구)휴튼)",
+        "courses": [
+            "Human(9H)",
+            "Happy(9H)",
+            "Heart(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "화순 엘리체 CC",
+        "courses": [
+            "동(9H)",
+            "동(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "화순CC (구)클럽900)",
+        "courses": [
+            "Spring(9H)",
+            "Summer(9H)",
+            "Autumn(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "전라도",
+        "name": "OK CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "나인브릿지 제주",
+        "courses": [
+            "Creek(9H)",
+            "Highland(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "나인브릿지 제주 퍼블릭",
+        "courses": [
+            "퍼블릭(6H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "더클래식 GR",
+        "courses": [
+            "Forest(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "라온 프라이빗 타운",
+        "courses": [
+            "Course(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "라온 GC 제주",
+        "courses": [
+            "Stone(9H)",
+            "Lake(9H)",
+            "Pine(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "라헨느 GC",
+        "courses": [
+            "Ocean(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "레이크힐스 CC 제주",
+        "courses": [
+            "Aquamarine(9H)",
+            "Topaz(9H)",
+            "Emerald(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "롯데 스카이힐 CC 제주",
+        "courses": [
+            "Hill(9H)",
+            "Forest(9H)",
+            "Sky(9H)",
+            "Ocean(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "부영 CC",
+        "courses": [
+            "원앙(9H)",
+            "사랑(9H)",
+            "우정(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "블랙스톤 GR 제주",
+        "courses": [
+            "North(9H)",
+            "South(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "사이프러스 GR",
+        "courses": [
+            "West(9H)",
+            "North(9H)",
+            "East(9H)",
+            "South(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "샤인빌 파크 CC",
+        "courses": [
+            "Palm(9H)",
+            "River(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "세인트 포 GR",
+        "courses": [
+            "Bosco(9H)",
+            "Cielo(9H)",
+            "Vita(9H)",
+            "Mare(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "스프링데일 GR",
+        "courses": [
+            "자연림(9H)",
+            "편백림(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "아덴힐 리조트 GC",
+        "courses": [
+            "왕이메(9H)",
+            "새별(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "에버리스 GR",
+        "courses": [
+            "Lake(9H)",
+            "Saebyul(9H)",
+            "Pine(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "에코랜드 GR",
+        "courses": [
+            "Wild(9H)",
+            "Beach",
+            "Hills(9H)",
+            "Eco(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "엘리시안 CC 제주",
+        "courses": [
+            "Lake(9H)",
+            "Pine(9H)",
+            "Campo(9H)",
+            "Ocean(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "오라 CC",
+        "courses": [
+            "South(18H)",
+            "West(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "우리들 리조트 CC 제주",
+        "courses": [
+            "Out(9H)",
+            "In(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "제주 힐 CC",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "제주 CC",
+        "courses": [
+            "West(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "제피로스 GC",
+        "courses": [
+            "Mountain(9H)",
+            "Sea(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "중문 GC",
+        "courses": [
+            "한라(9H)",
+            "해안(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "캐슬렉스 GC 제주",
+        "courses": [
+            "South(9H)",
+            "East(9H)",
+            "North(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "크라운 CC 제주",
+        "courses": [
+            "South(9H)",
+            "West(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "타미우스 GC",
+        "courses": [
+            "Mountain(9H)",
+            "Woods(9H)",
+            "Lake(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "테디밸리 GR",
+        "courses": [
+            "Teddy(9H)",
+            "Valley(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "프라자 CC 제주",
+        "courses": [
+            "퍼블릭(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "핀크스 GC 제주",
+        "courses": [
+            "West(9H)",
+            "North(9H)",
+            "East(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "한라산 CC",
+        "courses": [
+            "Ocean(9H)",
+            "Mountain(9H)"
+        ]
+    },
+    {
+        "country": "대한민국",
+        "province": "제주도",
+        "name": "해비치 CC 제주",
+        "courses": [
+            "Lake(9H)",
+            "Palm(9H)",
+            "Sky(9H)",
+            "Valley(9H)"
+        ]
+    }
+]
