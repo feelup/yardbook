@@ -1,0 +1,13 @@
+div class = 'container'
+  h1 홀 공략/리뷰
+  h3  = @hole_review.course_name
+  h3  = @hole_review.hole_number
+  h3  = @hole_review.hole_review
+  - if @hole_review.images?
+    - @hole_review.images.each do |image|
+    	div class='row'
+      	=image_tag(image.url, alt: 'Image')
+  div class='row'
+    = link_to '수정', edit_review_hole_review_path(@review, @hole_review), class: 'btn btn-outline-warning'
+    = link_to '삭제', review_hole_review_path(@review, @hole_review), method: :delete, data: { confirm: '정말 삭제 하시겠습니까?' }, class: 'btn btn-outline-danger'
+  div = link_to 'Back', review_path(@review), class: 'btn btn-outline-secondary'

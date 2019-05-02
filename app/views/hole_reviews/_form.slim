@@ -1,0 +1,17 @@
+= form_with(model: [ @review, @hole_review ], local: true) do |f|
+  - if @hole_review.errors.any?
+    div id='error_explanation'
+      ul
+        - @hole_review.errors.full_messages.each do |msg|
+          li = msg
+  div class = 'row'
+    = f.collection_select :course_name, @courses || [], :course_name, :course_name, class: 'form-control'
+  div class = 'row'
+    = f.number_field :hole_number, class: 'form-control', placeholder: @hole_number, :required => true
+  div class = 'row'
+    = f.text_area :hole_review, class: 'form-control', placeholder: '홀 공략', :required => true
+  div class = 'row'
+    = f.file_field :images, multiple: true
+  div class = 'row'
+    = f.submit '확인', class: 'btn btn-outline-primary'
+    = link_to '취소', review_path(@review), class: 'btn btn-outline-danger'

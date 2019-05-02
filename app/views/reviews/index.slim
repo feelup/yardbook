@@ -1,0 +1,11 @@
+div class='container'
+  h1 List of reviews
+  table class='table'
+    tr
+      th 코스
+      th 날짜
+    - @reviews.each do |review|
+      tr
+        td = link_to review.course_name, review_path(review)
+        td = link_to review.rounding_date, review_path(review)
+  = link_to '리뷰쓰기', new_review_path, class: 'btn btn-outline-primary'

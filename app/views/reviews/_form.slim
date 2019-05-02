@@ -1,0 +1,21 @@
+= form_with model: @review, local: true do |f|
+  - if @review.errors.any?
+    div id='error_explanation'
+      ul
+        - @review.errors.full_messages.each do |msg|
+          li = msg
+  div class = 'row'
+    = f.autocomplete_field :course_name, autocomplete_course_club_name_reviews_path, class: 'form-control', placeholder: '코스이름', :required => true
+  div class = 'row'
+    = f.date_field :rounding_date, class: 'form-control', placeholder: '라운딩날짜', :required => true
+  div class='row'
+    - if @courses
+      - @courses.each do |c|
+        div class='form-check'
+          = f.check_box :courses, { multiple: true, class: 'orm-check-input' }, c.course_name, false
+          = label 'review[courses]' , c.course_name, class: 'form-check-label'
+  div class = 'row'
+    = f.text_area :course_review, class: 'form-control', placeholder: '전체적인 평', :required => true
+  div class = 'row'
+    = f.submit class: 'btn btn-outline-primary'
+    = link_to '취소', reviews_path, class: 'btn btn-outline-danger'
