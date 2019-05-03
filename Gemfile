@@ -57,6 +57,8 @@ gem 'jquery-ui-rails'
 gem 'carrierwave', '~> 1.0'
 #mini_magick for resizing images
 gem 'mini_magick'
+#fog-aws
+gem 'fog-aws'
 
 #autocomplete
 gem 'rails-jquery-autocomplete'

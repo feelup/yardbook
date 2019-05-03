@@ -9,14 +9,15 @@ div class = 'container'
   - @review.courses.each do |course_name|
     hr
     h5 = course_name
-    div class = 'cousse-box'
-      - (1...Course.get_course(@review.course_name, course_name).number_of_holes + 1).each do |i|
-        - if HoleReview.get_hole_review(@review.id, course_name, i)
-          = link_to review_hole_review_path(@review, HoleReview.get_hole_review(@review.id, course_name, i)), class: 'hole-link btn btn-outline-info'
-            | #{i}번
-        - else
-           = link_to new_review_hole_review_path(@review, :hole_number => i, :course_name => course_name), class: 'hole-link btn btn-outline-danger'
-            | #{i}번
+    - if Course.get_course(@review.course_name, course_name)
+      div class = 'cousse-box'
+        - (1...Course.get_course(@review.course_name, course_name).number_of_holes + 1).each do |i|
+          - if HoleReview.get_hole_review(@review.id, course_name, i)
+            = link_to review_hole_review_path(@review, HoleReview.get_hole_review(@review.id, course_name, i)), class: 'hole-link btn btn-outline-info'
+              | #{i}번
+          - else
+             = link_to new_review_hole_review_path(@review, :hole_number => i, :course_name => course_name), class: 'hole-link btn btn-outline-danger'
+              | #{i}번
   hr
   div class='row'
     div class = 'col'
